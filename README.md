@@ -1,11 +1,11 @@
-# Myntra-WebApp-Clone
+# Myntra-Full-Stack-WebApp-Clone
 
 Myntra is a major Indian fashion e-commerce company headquartered in Bengaluru, Karnataka, India. An Online Shopping Site for Fashion &amp; Lifestyle in India which brings you a variety of footwear, Clothing, Accessories and lifestyle products.
 
 ---
 ## Links:
 
-- **Deployment URL:**https://myntra-web-app.netlify.app/
+- **Deployment URL:**https://myntra-web-app.vercel.app/
 ---
 
 ## About the App:
@@ -25,16 +25,20 @@ Myntra Web App is a comprehensive shopping application designed to deliver a sea
 -  #### Libraries
    -  `Firebase`
    -  `ReactJS`                    
-   -  `Boostrap`
+-  #### backend
+   -  `mongoose`  
+   -  `express`
+   -  `mongoose`
+   -  `nodemon`
 
 ---
 ## How to Run:
 
-### **Clone the repository:**https://github.com/idharmendrarock/Myntra-Web-App
+### **Clone the repository:**https://github.com/idharmendrarock/Myntra-Full-Stack
 
 ```bash
 git clone 
-cd myntra-web-app
+cd myntra
 ```
 
 ### **Install the dependencies:**
